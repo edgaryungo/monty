@@ -1,2 +1,4 @@
 #monty
 lifo
+fifo
+
